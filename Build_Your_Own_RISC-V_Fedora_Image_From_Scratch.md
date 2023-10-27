@@ -1,4 +1,4 @@
-ld Your Own RISC-V Fedora Image From Scratch
+# Build Your Own RISC-V Fedora Image From Scratch
 
 Fedora is one of the most popular Linux distributions: it is sponsored by Red Hat, but its development is community-driven. While the default version of Fedora ships with the GNOME desktop environment (it is probably the ideal choice if you want to use a vanilla version of the latter), there are many alternative spins available, which allows us to try a variety of desktop environments such as XFCE or KDE Plasma. In few easy steps it is even possible to build and try a custom Fedora live image.
 
